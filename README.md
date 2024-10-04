@@ -16,7 +16,9 @@ This is the main project I worked on during my Master's studies. It was an in-de
    
 * __Forecast Stock Prices using Recurent Neural Networks (RNN)__
   
-A brief description of this project and what makes it interesting. Technologies used include [technology stack].
+   In this project we built a model based on Recurrent Neural Networks that can predict the Close values of the TESLA Inc. (TSLA) stock.
+  
+   Technologies used include [RNN, LTSM, Pandas, Keras, Tensorflow].
 
 [Project Name]
 Another project with a focus on [field] or [problem solved], using [specific tools].
