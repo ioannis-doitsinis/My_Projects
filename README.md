@@ -13,7 +13,8 @@ This is the main project I worked on during my Master's studies. It was an in-de
 * Brief Description: [Summary of the project, what problem it addresses, what makes it unique, etc.]
 
 2. Other Notable Projects
-[Project Name]
+   
+* __Strong text__ Forecast Stock Prices using Recurent Neural Networks (RNN)
 A brief description of this project and what makes it interesting. Technologies used include [technology stack].
 
 [Project Name]
@@ -26,7 +27,7 @@ Throughout the development of these projects, I have gained experience in the fo
 * Frameworks & Libraries: [e.g., TensorFlow, React, etc.]
 * Databases: [e.g., MySQL, PostgreSQL, etc.]
 * Other Tools: [e.g., Git, Docker, etc.]
-* 
+  
 🧑‍💻 How to Use
 Feel free to explore the projects in this repository. Each project has its own detailed README file, providing instructions on how to run, use, and understand the project.
 
