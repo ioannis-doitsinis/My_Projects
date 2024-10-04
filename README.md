@@ -14,7 +14,8 @@ This is the main project I worked on during my Master's studies. It was an in-de
 
 2. Other Notable Projects
    
-* __Forecast Stock Prices using Recurent Neural Networks (RNN) __ <\br>
+* __ Forecast Stock Prices using Recurent Neural Networks (RNN) __
+  
 A brief description of this project and what makes it interesting. Technologies used include [technology stack].
 
 [Project Name]
