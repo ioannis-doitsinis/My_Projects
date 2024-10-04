@@ -8,7 +8,7 @@ This repository is intended as a centralized portfolio of my work, suitable for 
 1. Master’s Project: [Project Title]
 This is the main project I worked on during my Master's studies. It was an in-depth exploration of [specific domain or technology], focusing on solving [problem or challenge] using [specific methods, frameworks, languages].
 
-* Technologies: [List of technologies, programming languages]
+* Technologies: [Python, Keras, Tensorflow]
 * Key Achievements: [Highlight results, metrics, or innovative solutions]
 * Brief Description: [Summary of the project, what problem it addresses, what makes it unique, etc.]
 
