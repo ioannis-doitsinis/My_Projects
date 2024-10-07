@@ -1,13 +1,12 @@
-This Project is part of my Master's Thesis research and I include it to demonstrate part of the work.
+# __Project Overview__
+This project is part of my Master's Thesis research, aimed at demonstrating a portion of the work involved.
 
-The Thesis subject is: "Image classification task: Distinguish Web advertisements from regular content"
+__Thesis Topic__:
+"Image Classification Task: Distinguishing Web Advertisements from Regular Content"
 
+The repository includes the code for the custom model we developed, which was trained on a dataset of approximately 35,000 images scraped from hundreds of websites. Unfortunately, due to restrictions, the dataset itself is not publicly available, but the model code is provided as part of the demonstration.
 
-I include the code for the custom model which we developed, which was trained on a Dataset of about 35.000 images taken (scraped) from hundrents of websites.
-Unfortunately, the Dataset is not publicly available therefore i include only the code of the model for demonstrating part of our work. 
+__Model Performance:__
+Our custom model achieved an 85% accuracy in distinguishing advertisements from regular web content. For comparison, we also tested a "state-of-the-art" pre-trained model, MobileNet. After fine-tuning its architecture and hyperparameters, MobileNet achieved an accuracy of around 90%.
 
-
-
-Our model achived 85% accuracy identifying Advertisement contect from regular content. 
-When compared to other "State-of-the-art" pre-trained models, like the MobileNet, we can see that our model did quite well.
-The MobileNet network achived accuracy around 90% after fine-tuning the archiotecture and the hyperparameters.
+While MobileNet outperformed our custom model, the results show that our model performed quite well considering the complexity of the task.
