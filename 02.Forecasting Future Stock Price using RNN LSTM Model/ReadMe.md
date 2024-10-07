@@ -1,14 +1,13 @@
-In this project we will try to build a model based on Recurrent Neural Networks that will predict the Close values of a stock.
+This Project is part of my Master's Thesis research and I include it to demonstrate part of the work.
 
-For this case, we picked the historycal data from the last 10 years for the TESLA Inc. (TSLA) stock.
-
-The model will focus on the Last/Close price of the stock to forecast the future prices.
+The Thesis subject is: "Image classification task: Distinguish Web advertisements from regular content"
 
 
+I include the code for the custom model which we developed, which was trained on a Dataset of about 35.000 images taken (scraped) from hundrents of websites.
+Unfortunately, the Dataset is not publicly available therefore i include only the code of the model for demonstrating part of our work. 
 
-Results:
 
-![image](https://github.com/user-attachments/assets/6fd62206-524a-4dbd-8dff-e3c98c49c0d3)
 
-The Orange line, i.e. our predictions, is at the most part almost ontop of the Validation line, so we can say that the model is quite good at predicting the stock price.
-
+Our model achived 85% accuracy identifying Advertisement contect from regular content. 
+When compared to other "State-of-the-art" pre-trained models, like the MobileNet, we can see that our model did quite well.
+The MobileNet network achived accuracy around 90% after fine-tuning the archiotecture and the hyperparameters.
