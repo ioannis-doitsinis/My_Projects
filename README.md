@@ -24,14 +24,14 @@ This repository is intended as a centralized portfolio of my work, suitable for 
    Technologies: RNN, Long Short-Term Memory (LSTM), Pandas, Keras and TensorFlow.
 
 
-📊 Skills and Technologies
+## 📊 Skills and Technologies
 Throughout the development of these projects, I have gained experience in the following areas:
 
 * Programming Languages: Python
 * Frameworks & Libraries: TensorFlow, Keras, PyTorch, Matplotlib
 * Other Tools: Git
   
-🧑‍💻 How to Use
+## 🧑‍💻 How to Use
 Feel free to explore the projects in this repository. Each project has its own detailed README file, providing instructions on how to run, use, and understand the project.
 
 If you have any questions or would like to discuss a collaboration, please don't hesitate to reach out!
