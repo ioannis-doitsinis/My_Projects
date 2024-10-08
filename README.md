@@ -11,19 +11,18 @@ This repository is intended as a centralized portfolio of my work, suitable for 
    
    This is the main project I worked on during my Master's studies. It was an in-depth exploration of Convolutional Neural Networks, focusing on solving an image classification task using Python and the Libraries: Tensorflow and Keras.
 
-* Technologies: Python, Keras, Tensorflow
-* Brief Description: Developed a novel Deep Neural Network Model that classifies Web Content into Advertisement and Non-Advertisement and compared it against "State-of-the-Art" Pre-Trained Models
-* Key Achievements: Our Custom Model achieved **85%** accuracy on the task, while the best of the "State-of-the-art" models achieved **90%** accuracy.
+* **Technologies**: Python, Keras, Tensorflow
+* **Brief Description**: Developed a novel Deep Neural Network Model that classifies Web Content into Advertisement and Non-Advertisement and compared it against "State-of-the-Art" Pre-Trained Models
+* **Key Achievements**: Our Custom Model achieved **85%** accuracy on the task, while the best of the "State-of-the-art" models achieved **90%** accuracy.
 
-2. **Other Notable Projects**
-   
-* __Forecast Stock Prices using Recurent Neural Networks (RNN)__
+
+### 📈 Forecast Stock Prices using Recurent Neural Networks (RNN)
   
    In this project, I developed a model based on Recurrent Neural Networks that can predict the Close values of the TESLA Inc. (TSLA) stock.
   
-   **Technologies**: RNN, Long Short-Term Memory (LSTM), Pandas, Keras and TensorFlow.
-   **Brief Description**: Built an RNN model to predict the close prices of Tesla (TSLA) stock.
-   **Key Achievements**: Achieved 85% accuracy in predicting stock trends, demonstrating the ability of LSTMs to capture temporal dependencies.
+   **Technologies**: RNN, Pandas, Keras and TensorFlow.
+   **Brief Description**: Developed an RNN model to predict Tesla Inc. (TSLA) stock close prices by capturing temporal dependencies in stock market data.
+   **Key Achievements**: The LSTM model demonstrated a predictive accuracy of 90%, providing valuable insights into time-series forecasting.
 
 
 ## 📊 Skills and Technologies
