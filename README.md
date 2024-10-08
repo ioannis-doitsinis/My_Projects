@@ -7,14 +7,15 @@ Welcome to my GitHub repository! This repository showcases a collection of perso
 This repository is intended as a centralized portfolio of my work, suitable for inclusion in my CV and for potential employers or collaborators to review the scope of my experience and expertise.
 
 ## 📁 Repository Contents
-1. Master’s Project: *Image classification task: Distinguish Web advertisements from regular content*
+1. **Master’s Project:** *Image classification task: Distinguish Web advertisements from regular content*
+   
 This is the main project I worked on during my Master's studies. It was an in-depth exploration of Convolutional Neural Networks, focusing on solving an image classification task using Python and the Libraries: Tensorflow and Keras.
 
 * Technologies: Python, Keras, Tensorflow
 * Brief Description: Developed a novel Deep Neural Network Model that classifies Web Content into Advertisement and Non-Advertisement and compared it against "State-of-the-Art" Pre-Trained Models
 * Key Achievements: Our Custom Model achieved **85%** accuracy on the task, while the best of the "State-of-the-art" models achieved **90%** accuracy.
 
-2. Other Notable Projects
+2. **Other Notable Projects**
    
 * __Forecast Stock Prices using Recurent Neural Networks (RNN)__
   
