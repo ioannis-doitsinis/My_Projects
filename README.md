@@ -9,7 +9,7 @@ This repository is intended as a centralized portfolio of my work, suitable for 
 ## 📁 Repository Contents
 1. **Master’s Project:** *Image classification task: Distinguish Web advertisements from regular content*
    
-This is the main project I worked on during my Master's studies. It was an in-depth exploration of Convolutional Neural Networks, focusing on solving an image classification task using Python and the Libraries: Tensorflow and Keras.
+   This is the main project I worked on during my Master's studies. It was an in-depth exploration of Convolutional Neural Networks, focusing on solving an image classification task using Python and the Libraries: Tensorflow and Keras.
 
 * Technologies: Python, Keras, Tensorflow
 * Brief Description: Developed a novel Deep Neural Network Model that classifies Web Content into Advertisement and Non-Advertisement and compared it against "State-of-the-Art" Pre-Trained Models
@@ -21,7 +21,7 @@ This is the main project I worked on during my Master's studies. It was an in-de
   
    In this project, we built a model based on Recurrent Neural Networks that can predict the Close values of the TESLA Inc. (TSLA) stock.
   
-   Technologies used include RNN, Long Short-Term Memory (LSTM), Pandas, Keras and TensorFlow.
+   Technologies: RNN, Long Short-Term Memory (LSTM), Pandas, Keras and TensorFlow.
 
 
 📊 Skills and Technologies
