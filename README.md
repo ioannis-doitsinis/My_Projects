@@ -17,11 +17,9 @@ This repository is intended as a centralized portfolio of my work, suitable for 
 
 
 ### 📈 Forecast Stock Prices using Recurent Neural Networks (RNN)
-  
-   In this project, I developed a model based on Recurrent Neural Networks that can predict the Close values of the TESLA Inc. (TSLA) stock.
-  
- *  **Technologies**: RNN, Pandas, Keras and TensorFlow.
- *  **Brief Description**: Developed an RNN model to predict Tesla Inc. (TSLA) stock close prices by capturing temporal dependencies in stock market data.
+    
+ *  **Technologies**: RNN, LSTM, Pandas, Keras and TensorFlow.
+ *  **Brief Description**: I Developed an RNN model to predict Tesla Inc. (TSLA) stock close prices by capturing temporal dependencies in stock market data.
  *  **Key Achievements**: The LSTM model demonstrated a predictive accuracy of 90%, providing valuable insights into time-series forecasting.
 
 
