@@ -7,7 +7,7 @@ Welcome to my GitHub repository! This repository showcases a collection of perso
 This repository is intended as a centralized portfolio of my work, suitable for inclusion in my CV and for potential employers or collaborators to review the scope of my experience and expertise.
 
 ## 📁 Repository Contents
-1. 🎓**Master’s Project:** *Image classification task: Distinguish Web advertisements from regular content*
+### 🎓**Master’s Project:** *Image classification task: Distinguish Web advertisements from regular content*
    
    This is the main project I worked on during my Master's studies. It was an in-depth exploration of Convolutional Neural Networks, focusing on solving an image classification task using Python and the Libraries: Tensorflow and Keras.
 
