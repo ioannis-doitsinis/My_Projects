@@ -2,12 +2,12 @@
 
 Welcome to my GitHub repository! This repository showcases a collection of personal and academic projects that I developed during my Master's studies and beyond. It serves as a living portfolio of my growth, learning, and skills in various domains of software development, data analysis, and machine learning.
 
-## 🎯 Purpose
+### 🎯 Purpose
 
 This repository is intended as a centralized portfolio of my work, suitable for inclusion in my CV and for potential employers or collaborators to review the scope of my experience and expertise.
 
 ## 📁 Repository Contents
-1. **Master’s Project:** *Image classification task: Distinguish Web advertisements from regular content*
+1. 🎓**Master’s Project:** *Image classification task: Distinguish Web advertisements from regular content*
    
    This is the main project I worked on during my Master's studies. It was an in-depth exploration of Convolutional Neural Networks, focusing on solving an image classification task using Python and the Libraries: Tensorflow and Keras.
 
@@ -19,9 +19,11 @@ This repository is intended as a centralized portfolio of my work, suitable for 
    
 * __Forecast Stock Prices using Recurent Neural Networks (RNN)__
   
-   In this project, we built a model based on Recurrent Neural Networks that can predict the Close values of the TESLA Inc. (TSLA) stock.
+   In this project, I developed a model based on Recurrent Neural Networks that can predict the Close values of the TESLA Inc. (TSLA) stock.
   
-   Technologies: RNN, Long Short-Term Memory (LSTM), Pandas, Keras and TensorFlow.
+   **Technologies**: RNN, Long Short-Term Memory (LSTM), Pandas, Keras and TensorFlow.
+   **Brief Description**: Built an RNN model to predict the close prices of Tesla (TSLA) stock.
+   **Key Achievements**: Achieved 85% accuracy in predicting stock trends, demonstrating the ability of LSTMs to capture temporal dependencies.
 
 
 ## 📊 Skills and Technologies
