@@ -1,7 +1,9 @@
-🚀 My Project Portfolio
+## 🚀 My Project Portfolio
+
 Welcome to my GitHub repository! This repository showcases a collection of personal and academic projects that I developed during my Master's studies and beyond. It serves as a living portfolio of my growth, learning, and skills in various domains of software development, data analysis, and machine learning.
 
-🎯 Purpose
+## 🎯 Purpose
+
 This repository is intended as a centralized portfolio of my work, suitable for inclusion in my CV and for potential employers or collaborators to review the scope of my experience and expertise.
 
 📁 Repository Contents
