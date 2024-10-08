@@ -1,7 +1,9 @@
 🚀 My Project Portfolio
+
 Welcome to my GitHub repository! This repository showcases a collection of personal and academic projects that I developed during my Master's studies and beyond. It serves as a living portfolio of my growth, learning, and skills in various domains of software development, data analysis, and machine learning.
 
 🎯 Purpose
+
 This repository is intended as a centralized portfolio of my work, suitable for inclusion in my CV and for potential employers or collaborators to review the scope of my experience and expertise.
 
 📁 Repository Contents
@@ -20,8 +22,6 @@ This is the main project I worked on during my Master's studies. It was an in-de
   
    Technologies used include [RNN, LTSM, Pandas, Keras, Tensorflow].
 
-[Project Name]
-Another project with a focus on [field] or [problem solved], using [specific tools].
 
 📊 Skills and Technologies
 Throughout the development of these projects, I have gained experience in the following areas:
