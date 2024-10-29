@@ -5,11 +5,27 @@ It highlights my skills in data analysis, preprocessing, and neural network trai
 
 
 ## __Modeling Approach__
-I used a Long Short-Term Memory (LSTM) network to capture temporal patterns in stock price movements. The model was trained on Tesla's historical data from 2014 to 2024, using mean squared error as the loss function. 
+I used a Long Short-Term Memory (LSTM) network to capture temporal patterns in stock price movements. The model was trained on Tesla's historical data from 2013 to 2023, using mean squared error as the loss function. 
 
 
 ## __Model Performance:__
-The model's predictions (shown by the orange line) closely follow the validation data, indicating a good fit. Performance was evaluated using Root Mean Squared Error (RMSE), with an RMSE score of 1.13, demonstrating reliable predictive accuracy on unseen data.
+The model's predictions (shown by the orange line) closely follow the validation data, indicating a fair fit. 
+Performance was evaluated using Mean Absolute Percentage Error (MAPE), with an MAPE score of around 30%, demonstrating fair predictive accuracy on unseen data.
+
+In general, here’s a loose guide to interpreting MAPE values:
+
+MAPE < 10%: Highly accurate predictions 
+
+10% ≤ MAPE < 20%: Good predictions, but with noticeable error
+
+20% ≤ MAPE < 50%: Fair predictions, with significant error
+
+MAPE ≥ 50%: Poor predictions, with very high deviation from actual values
+
+
+Considering that we used in our modeling only the last/close value on the stock and got fair to good results showcases the power of these models.
+For more accurate predictions, more factors could be taken in consideration, like open, high, and low prices, trading Volume etc.
+
 
 
 ![image](https://github.com/user-attachments/assets/6fd62206-524a-4dbd-8dff-e3c98c49c0d3)
