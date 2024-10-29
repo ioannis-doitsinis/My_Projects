@@ -1,14 +1,14 @@
 # __Project Overview__
+In this project, I developed a Recurrent Neural Network (RNN) model to forecast stock prices, specifically focusing on Tesla Inc. (TSLA). 
+This model predicts the closing price based on historical stock data from the past decade. 
+It highlights my skills in data analysis, preprocessing, and neural network training, aiming to showcase a realistic approach to time-series forecasting.
 
-In this project, I developed a Recurrent Neural Network (RNN) model to forecast stock prices, specifically focusing on Tesla Inc. (TSLA). This model predicts the closing price based on historical stock data from the past decade. This project highlights my skills in data analysis, preprocessing, and neural network training, aiming to showcase a realistic approach to time-series forecasting.
 
 ## __Modeling Approach__
 I used a Long Short-Term Memory (LSTM) network to capture temporal patterns in stock price movements. The model was trained on Tesla's historical data from 2014 to 2024, using mean squared error as the loss function. 
 
 
 ## __Model Performance:__
-
-## Model Performance
 The model's predictions (shown by the orange line) closely follow the validation data, indicating a good fit. Performance was evaluated using Root Mean Squared Error (RMSE), with an RMSE score of 1.13, demonstrating reliable predictive accuracy on unseen data.
 
 
