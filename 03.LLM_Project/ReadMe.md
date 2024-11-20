@@ -23,4 +23,4 @@ The fine-tuning process involved:
    - Employed techniques such as padding, truncation, and attention masking for efficient training on a GPU.
     
 3. Comparison:
-   - Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
+  - Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
