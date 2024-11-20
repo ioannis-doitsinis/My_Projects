@@ -54,9 +54,9 @@ After fine-tuning, the model produced more coherent and relevant recommendations
   Strengths: Problem-solving, Fast Learner
 
 <ins>Output:</ins>\
-1. Data Scientist\
-2. Machine Learning Engineer\
-3. EdTech Consultant
+Data Scientist\
+Machine Learning Engineer\
+EdTech Consultant
 
 
 ## __How to Use__
