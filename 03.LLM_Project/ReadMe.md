@@ -7,3 +7,23 @@ Initially, the baseline GPT-2 model was tested without fine-tuning to evaluate i
 Subsequently, the model was fine-tuned on a specialized dataset of job descriptions to enhance its recommendation capabilities, highlighting my expertise in natural language processing (NLP), machine learning, and model fine-tuning.
 
 ## __Modeling Approach__
+
+Baseline GPT-2
+The pre-trained GPT-2 model was used to generate career recommendations from user input. Although it provided coherent text, the results were generic and repetitive due to the lack of domain-specific knowledge.
+
+Fine-Tuned GPT-2
+The fine-tuning process involved:
+
+  1. Dataset Preparation:
+
+    Used a job descriptions dataset consisting of fields like company_name, position_title, and job_description.
+    Prompts were crafted using company_name and position_title, while job_description was treated as the target output.
+    
+  2. Fine-Tuning:
+
+    Fine-tuned GPT-2 on the job descriptions dataset using Hugging Face Transformers.
+    Employed techniques such as padding, truncation, and attention masking for efficient training on a GPU.
+    
+3. Comparison:
+
+    Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
