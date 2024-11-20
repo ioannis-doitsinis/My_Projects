@@ -32,15 +32,15 @@ __Baseline Results__\
 The baseline model struggled with repetitive output and lacked domain specificity. For example:
 
 &nbsp;<ins>Input:</ins>\
-&nbsp; Skills: Python, Data Analysis, Machine Learning\
-&nbsp;  Interests: Technology, Education\
-&nbsp;  Strengths: Problem-solving, Fast Learner
+&nbsp;&nbsp;Skills: Python, Data Analysis, Machine Learning\
+&nbsp;&nbsp;Interests: Technology, Education\
+&nbsp;&nbsp;Strengths: Problem-solving, Fast Learner
 
 
 &nbsp;<ins>Output:</ins>\
-&nbsp;  Python, Data Analysis, Machine Learning\
-&nbsp;  Interests: Technology, Education\
-&nbsp;  Strengths: Problem-solving, Fast Learner
+&nbsp;&nbsp;Python, Data Analysis, Machine Learning\
+&nbsp;&nbsp;Interests: Technology, Education\
+&nbsp;&nbsp;Strengths: Problem-solving, Fast Learner
 
 (The output is duplicated from the pre-trained model)
 
@@ -49,14 +49,14 @@ The baseline model struggled with repetitive output and lacked domain specificit
 After fine-tuning, the model produced more coherent and relevant recommendations:
 
 &nbsp;<ins>Input:</ins>\
-&nbsp;  Skills: Python, Data Analysis, Machine Learning\
-&nbsp;  Interests: Technology, Education\
-&nbsp;  Strengths: Problem-solving, Fast Learner
+&nbsp;&nbsp;Skills: Python, Data Analysis, Machine Learning\
+&nbsp;&nbsp;Interests: Technology, Education\
+&nbsp;&nbsp;Strengths: Problem-solving, Fast Learner
 
 &nbsp;<ins>Output:</ins>\
-&nbsp;Data Scientist\
-&nbsp;Machine Learning Engineer\
-&nbsp;EdTech Consultant
+&nbsp;&nbsp;Data Scientist\
+&nbsp;&nbsp;Machine Learning Engineer\
+&nbsp;&nbsp;EdTech Consultant
 
 
 ## __How to Use__
