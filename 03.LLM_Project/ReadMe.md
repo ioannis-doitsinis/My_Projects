@@ -15,15 +15,12 @@ Fine-Tuned GPT-2
 The fine-tuning process involved:
 
   1. Dataset Preparation:
-
-    Used a job descriptions dataset consisting of fields like company_name, position_title, and job_description.
-    Prompts were crafted using company_name and position_title, while job_description was treated as the target output.
+   - Used a job descriptions dataset consisting of fields like company_name, position_title, and job_description.
+   - Prompts were crafted using company_name and position_title, while job_description was treated as the target output.
     
   2. Fine-Tuning:
-
-    Fine-tuned GPT-2 on the job descriptions dataset using Hugging Face Transformers.
-    Employed techniques such as padding, truncation, and attention masking for efficient training on a GPU.
+   - Fine-tuned GPT-2 on the job descriptions dataset using Hugging Face Transformers.
+   - Employed techniques such as padding, truncation, and attention masking for efficient training on a GPU.
     
 3. Comparison:
-
-    Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
+   - Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
