@@ -28,15 +28,13 @@ The fine-tuning process involved:
 
 ## __Model Performance__
 
-__Baseline Results__
+__Baseline Results__\
 The baseline model struggled with repetitive output and lacked domain specificity. For example:
 
-<u>Input:<u>
-Skills: Python, Data Analysis, Machine Learning
-
-Interests: Technology, Education
-
-Strengths: Problem-solving, Fast Learner
+<u>Input:<u>\
+  Skills: Python, Data Analysis, Machine Learning\
+  Interests: Technology, Education\
+  Strengths: Problem-solving, Fast Learner\
 
 
 
