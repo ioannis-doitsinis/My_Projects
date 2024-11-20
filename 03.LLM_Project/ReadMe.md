@@ -28,7 +28,7 @@ The fine-tuning process involved:
 
 ## __Model Performance__
 
-###__Baseline Results__\
+### __Baseline Results__
 The baseline model struggled with repetitive output and lacked domain specificity. For example:
 
 &nbsp;<ins>Input:</ins>\
