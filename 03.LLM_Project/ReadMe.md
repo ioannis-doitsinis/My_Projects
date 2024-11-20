@@ -37,10 +37,11 @@ The baseline model struggled with repetitive output and lacked domain specificit
   Strengths: Problem-solving, Fast Learner
 
 
+<ins>will be underlined</ins>.
 
 <u>Output:</u>\
-  Python, Data Analysis, Machine Learning
-  Interests: Technology, Education
+  Python, Data Analysis, Machine Learning\
+  Interests: Technology, Education\
   Strengths: Problem-solving, Fast Learner
 
 (The output is duplicated from the pre-trained model)
