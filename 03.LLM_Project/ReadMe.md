@@ -44,7 +44,7 @@ The baseline model struggled with repetitive output and lacked domain specificit
 &nbsp;Interests: Technology, Education\
 &nbsp;Strengths: Problem-solving, Fast Learner
 
-(The output is duplicated from the pre-trained model)
+:memo: **Note:** (The output is duplicated from the pre-trained model)
 
 
 ### __Fine-Tuned Results__
