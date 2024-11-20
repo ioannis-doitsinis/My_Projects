@@ -45,7 +45,7 @@ The baseline model struggled with repetitive output and lacked domain specificit
 (The output is duplicated from the pre-trained model)
 
 
-# __Fine-Tuned Results__\
+## __Fine-Tuned Results__
 After fine-tuning, the model produced more coherent and relevant recommendations:
 
 <ins>Input:</ins>\
