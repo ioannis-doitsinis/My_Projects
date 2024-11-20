@@ -24,3 +24,38 @@ The fine-tuning process involved:
     
 3. Comparison:
   - Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
+
+
+## __Model Performance__
+
+__Baseline Results__
+The baseline model struggled with repetitive output and lacked domain specificity. For example:
+
+Input:
+Skills: Python, Data Analysis, Machine Learning
+Interests: Technology, Education
+Strengths: Problem-solving, Fast Learner
+
+Output:
+Python, Data Analysis, Machine Learning
+Interests: Technology, Education
+Strengths: Problem-solving, Fast Learner
+
+(The output is duplicated from the pre-trained model)
+
+__Fine-Tuned Results__
+After fine-tuning, the model produced more coherent and relevant recommendations:
+
+Input:
+Skills: Python, Data Analysis, Machine Learning
+Interests: Technology, Education
+Strengths: Problem-solving, Fast Learner
+
+Output:
+
+Data Scientist
+Machine Learning Engineer
+EdTech Consultant
+
+
+## __How to Use__
