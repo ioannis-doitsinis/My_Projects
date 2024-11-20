@@ -31,14 +31,14 @@ The fine-tuning process involved:
 ### __Baseline Results__
 The baseline model struggled with repetitive output and lacked domain specificity. For example:
 
-&nbsp;<ins>Input:</ins>\
+&nbsp;<ins>Input:</ins>
 
 &nbsp;Skills: Python, Data Analysis, Machine Learning\
 &nbsp;Interests: Technology, Education\
 &nbsp;Strengths: Problem-solving, Fast Learner
 
 
-&nbsp;<ins>Output:</ins>\
+&nbsp;<ins>Output:</ins>
 
 &nbsp;Python, Data Analysis, Machine Learning\
 &nbsp;Interests: Technology, Education\
@@ -50,13 +50,13 @@ The baseline model struggled with repetitive output and lacked domain specificit
 ### __Fine-Tuned Results__
 After fine-tuning, the model produced more coherent and relevant recommendations:
 
-&nbsp;<ins>Input:</ins>\
+&nbsp;<ins>Input:</ins>
 
 &nbsp;Skills: Python, Data Analysis, Machine Learning\
 &nbsp;Interests: Technology, Education\
 &nbsp;Strengths: Problem-solving, Fast Learner
 
-&nbsp;<ins>Output:</ins>\
+&nbsp;<ins>Output:</ins>
 
 &nbsp;Data Scientist\
 &nbsp;Machine Learning Engineer\
