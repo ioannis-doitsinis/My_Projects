@@ -4,7 +4,9 @@ In this project, I developed an AI-powered career recommendation system using GP
 
 Initially, the baseline GPT-2 model was tested without fine-tuning to evaluate its general performance. 
 
-Subsequently, the model was fine-tuned on a specialized dataset of job descriptions to enhance its recommendation capabilities, highlighting my expertise in natural language processing (NLP), machine learning, and model fine-tuning.
+Subsequently, the model was fine-tuned on a specialized dataset of job descriptions to enhance its recommendation capabilities.
+
+I include this project to highlight my expertise in natural language processing (NLP), machine learning, and model fine-tuning.
 
 ## __Modeling Approach__
 
