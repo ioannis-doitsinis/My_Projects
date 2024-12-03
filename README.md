@@ -22,6 +22,11 @@ This repository is intended as a centralized portfolio of my work, suitable for 
  *  **Brief Description**: I Developed an RNN model to predict Tesla Inc. (TSLA) stock close prices by capturing temporal dependencies in stock market data.
  *  **Key Achievements**: The LSTM model demonstrated a predictive accuracy of 90%, providing valuable insights into time-series forecasting.
 
+### 📃 LLM Model Fine Tuned for Career Recomendations (GPT2)
+    
+ *  **Technologies**: GPT2, Transformers, Large Language Model
+ *  **Brief Description**: I Developed a GPT2 based model which was fine tuned on a Hugging Face dataset about Job titles and Descriptions. The model was trained to Output Job recommendations based on Skills and Interests. 
+ *  **Key Achievements**: The Fine tuned model gave more meaningful responses when compared to a GPT2 untrained model.
 
 ## 📊 Skills and Technologies
 Throughout the development of these projects, I have gained experience in the following areas:
