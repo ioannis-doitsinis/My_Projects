@@ -37,16 +37,21 @@ The baseline model struggled with repetitive output and lacked domain specificit
 
 &nbsp;<ins>Input:</ins>
 
-&nbsp;Skills: Python, Data Analysis, Machine Learning\
-&nbsp;Interests: Technology, Education\
-&nbsp;Strengths: Problem-solving, Fast Learner
+"Tell me about the qualifications required for a Data scientist."
 
 
 &nbsp;<ins>Output:</ins>
 
-&nbsp;Python, Data Analysis, Machine Learning\
-&nbsp;Interests: Technology, Education\
-&nbsp;Strengths: Problem-solving, Fast Learner
+Tell me about the qualifications required for a Data scientist.
+
+A: I am an engineer, and my background is in data science at Microsoft Research (MSR). My main job involves analyzing large
+datasets to understand how they are used by organizations or individuals within their organization;
+this includes using machine learning techniques such as deep neural networks that can be applied
+across multiple domains of analysis including human-computer interaction research with social media
+platforms like Facebook Messenger etc., but also other types where you need more than just one
+person working on your project - it's much easier if there aren't many people involved! In addition
+we have our own team who work closely together so when someone comes along looking into something
+new then everyone will know what was done before them... So please
 
 :memo: **Note:** (The output is duplicated from the pre-trained model)
 
@@ -56,15 +61,19 @@ After fine-tuning, the model produced more coherent and relevant recommendations
 
 &nbsp;<ins>Input:</ins>
 
-&nbsp;Skills: Python, Data Analysis, Machine Learning\
-&nbsp;Interests: Technology, Education\
-&nbsp;Strengths: Problem-solving, Fast Learner
+"Tell me about the qualifications required for a Data scientist."
 
 &nbsp;<ins>Output:</ins>
 
-&nbsp;Data Scientist\
-&nbsp;Machine Learning Engineer\
-&nbsp;EdTech Consultant
+Tell me about the qualifications required for a Data scientist. 
 
+What you'll do: Work with data scientists to understand how our customers use our products and services, identify opportunities
+that could improve their business processes or drive revenue growth by leveraging AI models in order
+create insights into customer behavior through analytics tools such as Salesforce Analytics,
+SalesForce Cloud Platforms (SaaN), etc., Develop best practices across all of your projects Build
+scalable solutions using Python/Python-based technologies like Django & Flask Create automated tests
+on existing systems Write clean code based upon user feedback Participate actively within teams
+where necessary Provide technical support via email Confirm work is completed successfully
+Qualifications Required Skills You will be working at a startup environment Experience building
+software applications from scratch Strong understanding
 
-## __How to Use__
