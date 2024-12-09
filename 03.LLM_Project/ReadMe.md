@@ -1,6 +1,6 @@
 # __Project Overview__
 
-In this project, I developed an AI-powered career recommendation system using GPT-2. The goal was to provide personalized career path suggestions based on a user’s skills, interests, and strengths. 
+In this project, I developed an AI-powered career recommendation system using GPT-2. The target of the model was to provide recommendations on career paths and skills based on a user’s skills or position. 
 
 Initially, the baseline GPT-2 model was tested without fine-tuning to evaluate its general performance. 
 
@@ -20,14 +20,14 @@ The fine-tuning process involved:
 
   1. Dataset Preparation:
    - Used a job descriptions dataset consisting of fields like company_name, position_title, and job_description.
-   - Prompts were crafted using company_name and position_title, while job_description was treated as the target output.
+   - Prompts were crafted using position_title, while job_description was treated as the target output.
     
   2. Fine-Tuning:
    - Fine-tuned GPT-2 on the job descriptions dataset using Hugging Face Transformers.
    - Employed techniques such as padding, truncation, and attention masking for efficient training on a GPU.
     
 3. Comparison:
-  - Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance and diversity of career suggestions.
+  - Compared the baseline GPT-2 results with the fine-tuned model, observing significant improvement in relevance of career suggestions.
 
 
 ## __Model Performance__
@@ -53,7 +53,7 @@ person working on your project - it's much easier if there aren't many people in
 we have our own team who work closely together so when someone comes along looking into something
 new then everyone will know what was done before them... So please
 
-:memo: **Note:** The untrained GTP2 model gives a slightly generic reply and which doesnt directly address the question in the prompt. Although still related to the matter, it lacks logical flow and fails to communicate requirements for the position. 
+:memo: **Note:** The untrained GTP2 model gives a slightly generic reply, which doesnt directly address the question in the prompt. Although still related to the matter, it lacks logical flow and fails to communicate requirements for the position. 
 
 
 ### __Fine-Tuned Results__
