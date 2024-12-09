@@ -53,7 +53,7 @@ person working on your project - it's much easier if there aren't many people in
 we have our own team who work closely together so when someone comes along looking into something
 new then everyone will know what was done before them... So please
 
-:memo: **Note:** (The output is duplicated from the pre-trained model)
+:memo: **Note:** The untrained GTP2 model gives a slightly generic reply and which doesnt directly address the question in the prompt. Although still related to the matter, it lacks logical flow and fails to communicate requirements for the position. 
 
 
 ### __Fine-Tuned Results__
@@ -76,4 +76,7 @@ on existing systems Write clean code based upon user feedback Participate active
 where necessary Provide technical support via email Confirm work is completed successfully
 Qualifications Required Skills You will be working at a startup environment Experience building
 software applications from scratch Strong understanding
+
+
+:memo: **Note:** The trained network response is more targeted to the prompt as it directly outlines tasks that a Data Scientist might perform. The response highlights specific tools and technologies (e.g., Python, Django, Flask, Salesforce Analytics) and is more structured.
 
