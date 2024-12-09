@@ -11,9 +11,11 @@ I include this project to highlight my expertise in natural language processing 
 ## __Modeling Approach__
 
 Baseline GPT-2
+
 The pre-trained GPT-2 model was used to generate career recommendations from user input. Although it provided coherent text, the results were generic and repetitive due to the lack of domain-specific knowledge.
 
 Fine-Tuned GPT-2
+
 The fine-tuning process involved:
 
   1. Dataset Preparation:
